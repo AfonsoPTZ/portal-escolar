@@ -1,4 +1,4 @@
-# Portal Escolar
+# Portal Escolar - NÃO FINALIZADO
 
 > **PT**: Portal web para pais/responsáveis acompanharem a vida escolar do aluno (tarefas, notas, avisos, cantina, comunicados etc.). Projeto acadêmico com **SCRUM**, **Next.js**, **Node/Express** e **MySQL**.  
 > **EN**: Web portal for parents/guardians to follow students’ school life (assignments, grades, notices, cafeteria, communications). Academic project using **SCRUM**, **Next.js**, **Node/Express**, and **MySQL**.
